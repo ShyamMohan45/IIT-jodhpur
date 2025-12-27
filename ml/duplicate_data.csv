@@ -1,0 +1,5 @@
+report_id,description,latitude,longitude,timestamp
+1,Major road accident near main square,26.2389,73.0243,2025-01-01 10:00
+2,Big accident reported near main square area,26.2391,73.0241,2025-01-01 10:05
+3,Fire breakout in residential building,26.2800,73.0500,2025-01-01 09:30
+4,Small fire reported in apartment,26.2798,73.0502,2025-01-01 09:40 
