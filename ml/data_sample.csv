@@ -1,0 +1,11 @@
+incident_type,description_length,distance_km,time_of_day,priority
+accident,120,0.5,day,High
+medical,80,1.2,day,High
+fire,200,0.8,night,High
+accident,40,5.0,day,Medium
+medical,30,6.5,day,Medium
+accident,20,10.0,day,Low
+medical,15,12.0,night,Low
+fire,60,8.0,night,Medium
+accident,90,2.0,night,High
+medical,25,9.5,day,Low
